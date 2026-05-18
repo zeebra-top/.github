@@ -1,1 +1,1 @@
-# Reverved for future needs
+# Reserved for future needs
